@@ -1,3 +1,2 @@
 # kingodCoder.github.io
-This is a little chronometer i made for fun 
-It's done just with HTML, Css and a little JavaScript
+This is my little site that i made, just for fun. 
